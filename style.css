@@ -31,19 +31,17 @@ body, html {
     height: 100%;
 }
 
-/* Center the image and set its dimensions */
 #centered-image {
     max-width: 100%;
     max-height: 100%;
-    width:500px;
-    height: 600px;
+    width: 321px;
+    height: 388px;
 }
 h2 {
   color: black; margin: 
 }
 h2 { text-align: right
 }
-
   h1 {
   color: black; margin-left: px
 }
